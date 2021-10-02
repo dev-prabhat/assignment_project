@@ -1,0 +1,7 @@
+.component {
+  display: flex;
+  flex-direction: row;
+}
+.background {
+  background-color: gray;
+}

@@ -1,0 +1,29 @@
+.single {
+  background-color: aqua;
+  width: 25%;
+  height: 25%;
+  margin: 5px 10px;
+}
+.examName {
+  font-size: 20px;
+  margin: 5%;
+  width: 100%;
+}
+.question {
+  font-size: 15px;
+  margin: 5%;
+}
+.marks {
+  font-size: 15px;
+  margin: 5%;
+}
+.minutes {
+  font-size: 15px;
+  margin: 5%;
+}
+.block {
+  background-color: green;
+  color: white;
+  margin: 5%;
+  width: 90%;
+}
