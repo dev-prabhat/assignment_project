@@ -3,6 +3,7 @@ import QuizSection from "./QuizSection/QuizSection-component";
 import MockTestSection from "./MockTestSection/MockTestSection-component";
 
 import "./styles.css";
+import Description from "./Description/Description-component";
 
 export default function App() {
   return (
@@ -10,6 +11,7 @@ export default function App() {
       <Header />
       <QuizSection />
       <MockTestSection />
+      <Description />
     </div>
   );
 }
